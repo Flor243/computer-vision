@@ -8,3 +8,12 @@ This repository contains solved exercises for the "Computer Vision" course of th
 
 ## Getting Started
 To get started, simply navigate to the unit of interest and explore the associated Jupyter notebooks. Each notebook contains detailed code for solving the exercises.
+
+## Set up
+
+This repository has been run on WSL with Ubuntu distro.
+
+Before start, run in your terminal the following commands:
+
+- pip3 install -r requirements.txt
+- sudo apt-get install -y libgl1-mesa-dev
