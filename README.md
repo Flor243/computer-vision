@@ -8,9 +8,9 @@ This repository contains solved exercises for the "Computer Vision" course of th
 
 ## Set up
 
-This repository has been run on WSL with Ubuntu distro.
+This repository has been run on WSL with the Ubuntu distribution.
 
-Before start, run in your terminal the following commands:
+Before starting, run the following commands in your terminal:
 
 - pip3 install -r requirements.txt
 - sudo apt-get install -y libgl1-mesa-dev
