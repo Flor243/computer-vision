@@ -14,6 +14,7 @@ Before starting, run the following commands in your terminal:
 
 - pip3 install -r requirements.txt
 - sudo apt-get install -y libgl1-mesa-dev
+- sudo apt install ffmpeg
 
 ## Getting Started
 To get started, simply navigate to the unit of interest and explore the associated Jupyter notebooks. Each notebook contains detailed code for solving the exercises.
